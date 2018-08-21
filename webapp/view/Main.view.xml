@@ -1,10 +1,11 @@
 <mvc:View controllerName="git.mainproject.controller.Main" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
 	displayBlock="true" xmlns="sap.m">
-	<App id="idAppControl">
+	<App id="idAppControlExperimentID">
 		<pages>
 			<Page title="I am a title">
 				<content>
 					<Label text="i am a label"></Label>
+					<Label text="I am the experiment label"></Label>
 				</content>
 			</Page>
 		</pages>
