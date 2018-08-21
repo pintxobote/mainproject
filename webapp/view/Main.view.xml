@@ -2,8 +2,10 @@
 	displayBlock="true" xmlns="sap.m">
 	<App id="idAppControl">
 		<pages>
-			<Page title="{i18n>title}">
-				<content></content>
+			<Page title="I am a title">
+				<content>
+					<Label text="i am a label"></Label>
+				</content>
 			</Page>
 		</pages>
 	</App>
