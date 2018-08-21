@@ -5,6 +5,8 @@
 			<Page title="I am a title">
 				<content>
 					<Label text="i am a label"></Label>
+					<Label text="i am another a label"></Label>
+					<Label text="i am another a label too"></Label>
 				</content>
 			</Page>
 		</pages>
