@@ -5,7 +5,6 @@
 			<Page title="I am a new title">
 				<content>
 					<Label text="i am a label"></Label>
-					<Label text="i am another a label"></Label>
 					<Label text="i am another a label too"></Label>
 					<Label text="i am another a label as well, so cool"></Label>
 					<Label text="i am added in the feature branch"></Label>
