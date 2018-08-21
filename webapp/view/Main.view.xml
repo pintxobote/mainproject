@@ -6,6 +6,7 @@
 				<content>
 					<Label text="i am a label"></Label>
 					<Label text="I am the experiment label"></Label>
+					<Label text="I am an other experimental label"></Label>
 				</content>
 			</Page>
 		</pages>
