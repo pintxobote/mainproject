@@ -8,7 +8,8 @@
 					<Label text="i am another a label"></Label>
 					<Label text="i am another a label too"></Label>
 					<Label text="i am another a label as well, so cool"></Label>
-					<Label text="i am added in the feature branch"
+					<Label text="i am added in the feature branch"></Label>
+					<Label text="i am another added label in the feature branch"></Label>
 				</content>
 			</Page>
 		</pages>
