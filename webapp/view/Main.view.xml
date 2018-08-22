@@ -4,6 +4,7 @@
 		<pages>
 			<Page title="I am a new title">
 				<content>
+					<Label text="Another collegue added this code"></Label>
 					<Label text="i am a label"></Label>
 					<Label text="i am another a label too"></Label>
 					<Label text="i am another a label as well, so cool"></Label>
