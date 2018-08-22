@@ -2,7 +2,7 @@
 	displayBlock="true" xmlns="sap.m">
 	<App id="idAppControlExperimentID">
 		<pages>
-			<Page title="I am a new title">
+			<Page title="Collegue also didnt like this title">
 				<content>
 					<Label text="Another collegue added this code"></Label>
 					<Label text="i am a label"></Label>
